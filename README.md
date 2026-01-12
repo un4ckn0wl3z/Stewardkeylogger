@@ -1,5 +1,6 @@
 # StewardKL
 
+![image](preview.png)
 StewardKL is an experimental Windows input monitoring tool developed for educational and research purposes. It explores low-level keyboard event handling using global keyboard hooks and DLL injection in controlled, consent-based environments.
 
 ## Overview
